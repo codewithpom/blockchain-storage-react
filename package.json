@@ -1,7 +1,7 @@
 {
   "name": "blockchain-storage-react",
   "version": "0.1.0",
-  "homepage": "https://blockchain-storage-react.github.io",
+  "homepage": "https://codewithpom.github.io/blockchain-storage-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
